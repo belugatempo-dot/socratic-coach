@@ -4,7 +4,7 @@ A [Claude Code custom skill](https://docs.anthropic.com/en/docs/claude-code) tha
 
 ## What It Does
 
-When a user says "coach me", "help me think through", "challenge my thinking", or similar phrases, the skill activates and Claude shifts into a structured coaching mode:
+When a user says "coach me", "help me think through", "Socratic mode", "challenge my thinking", "play devil's advocate", or the Chinese equivalents "苏格拉底" / "追问", the skill activates and Claude shifts into a structured coaching mode:
 
 - **Triages** whether coaching is appropriate (judgment calls get coaching; factual questions get direct answers)
 - **Asks 1–2 probing questions per turn**, following the user's contradictions rather than a script
